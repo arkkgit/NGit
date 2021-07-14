@@ -9,5 +9,6 @@ namespace NazeerGit
     public class Class1
     {
         // demo for git
+        // first line of code
     }
 }
